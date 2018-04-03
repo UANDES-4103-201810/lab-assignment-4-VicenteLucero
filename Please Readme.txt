@@ -1,0 +1,1 @@
+No se que paso, pero la consola no me permitia probar las validaciones. Pregunte al ayudante pensando que podria tener mal el codigo de usuario (que es con elque intentey descubri este problema), me indica que no sabe que sucede, que al parecer es problema del pc o de la consola, por lo cual no pude probar las validaciones y tuve que programar a ciegas.
